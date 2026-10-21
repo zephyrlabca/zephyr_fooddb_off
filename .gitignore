@@ -1,0 +1,4 @@
+source/
+build/
+.venv/
+.DS_Store
